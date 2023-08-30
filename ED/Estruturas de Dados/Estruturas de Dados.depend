@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603920601 source:c:\users\ander\desktop\ufs\estruturas de dados\ed\estruturas de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Ponto.h"
+
+1603890516 c:\users\ander\desktop\ufs\estruturas de dados\ed\estruturas de dados\ponto.h
+
+1603890526 source:c:\users\ander\desktop\ufs\estruturas de dados\ed\estruturas de dados\ponto.c
+	<stdlib.h>
+	<math.h>
+	"Ponto.h"
+
